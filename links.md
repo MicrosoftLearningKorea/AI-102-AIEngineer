@@ -20,8 +20,13 @@
 - [Language Service 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/language-service/overview)
   - [Language Service 지원 언어](https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/language-support)
   - [NER 기능에서 탐지 하는 엔터티 종류](https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/concepts/named-entity-categories?tabs=ga-api)
+
 - [Language Service 학습 경로](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/)
 - [Language Studio](https://language.cognitive.azure.com/)
+
+## Translator 서비스
+- [Translator Service 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-overview)
+  - [Translator Service 지원 언어](https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support)
 
 # 2일차
 
