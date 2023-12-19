@@ -41,3 +41,13 @@
 # Studio 링크
 - [Language Studio](https://language.cognitive.azure.com/)
 - [Speech Studio](https://speech.microsoft.com/portal)
+
+-----
+# 고객 사례
+
+| 국가  | 산업군 | 회사명              | Azure AI 서비스명  | 활용 사례 |
+| --- | --- | ---------------- | -------------- | ----- |
+| 스페인 | 통신  | Telefonica Group | Language 서비스   | [Customer Service용 챗봇 - 계정 관리, 데이터 사용량 확인, 청구서 확인, 등](https://customers.microsoft.com/en-us/story/1650642611593738736-telefonica-media-telco-cognitive-services-azure) |
+| 독일  | 자동차 | Volkswagen Group | Translator 서비스 | [차량 제조 용어를 학습시킨 문서 번역](https://customers.microsoft.com/en-us/story/779468-volkswagen-azure-automotive-en) |
+| 미국  | 미디어 | X (Twitter)            | Speech 서비스  | [Twitter Space의 실시간 음성 텍스트 변환](https://customers.microsoft.com/en-us/story/1533249396837116946-twitter-media-entertainment-azure) |
+
