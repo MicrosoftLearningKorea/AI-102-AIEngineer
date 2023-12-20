@@ -71,6 +71,13 @@
 | 국가  | 산업군 | 회사명              | Azure AI 서비스명  | 활용 사례 |
 | --- | --- | ---------------- | -------------- | ----- |
 | 스페인 | 통신  | Telefonica Group | Language 서비스   | [Customer Service용 챗봇 - 계정 관리, 데이터 사용량 확인, 청구서 확인, 등](https://customers.microsoft.com/en-us/story/1650642611593738736-telefonica-media-telco-cognitive-services-azure) |
+| 한국  | 항공 | 아시아나항공            | Language 서비스  | [Customer Service용 챗봇 - 예약 확인, 운항 정보, 수하물 정보, 등](https://news.microsoft.com/ko-kr/2017/11/29/asiana_chatbot/) |
 | 독일  | 자동차 | Volkswagen Group | Translator 서비스 | [차량 제조 용어를 학습시킨 문서 번역](https://customers.microsoft.com/en-us/story/779468-volkswagen-azure-automotive-en) |
 | 미국  | 미디어 | X (Twitter)            | Speech 서비스  | [Twitter Space의 실시간 음성 텍스트 변환](https://customers.microsoft.com/en-us/story/1533249396837116946-twitter-media-entertainment-azure) |
+| 미국  | 운송 | Uber            | Face 서비스  | [공유 차량 기사 신원 확인](https://news.microsoft.com/transform/how-uber-is-using-driver-selfies-to-enhance-security-powered-by-microsoft-cognitive-services/) |
+| 한국  | 스포츠/미디어 | NC Dinos            | Language, Face, Video Indexer, Custom Vision  | [혁신적인 팬 서비스 환경 조성 및 Tech 기반 효율적인 광고주 유치 및 운영](https://customers.microsoft.com/en-us/story/1444906748733662480-nc-dinos-media-entertainment-azure-ko-korea) |
+
+
+
+
 
