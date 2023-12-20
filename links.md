@@ -46,10 +46,16 @@
 
 ## Computer Vision 서비스
 - [Computer Vision 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-image-analysis?tabs=4-0#analyze-image)
+  - [제공되는 VisionFeatureTypes](https://learn.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-computervision/azure.cognitiveservices.vision.computervision.models.visualfeaturetypes?view=azure-python-preview)
 - [Azure AI Vision 학습 경로](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/)
+
+## Video Indexer 서비스
+- [Video Indexer 사이트](https://videoindexer.ai/)
+- [Video Indexer API 포탈 사이트](https://api-portal.videoindexer.ai/)
 
 ## Custom Vision 서비스
 - [Custom Vision 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/overview)
+- [Custom Vision의 customizing 기능과 Computer Vision에서 제공하는 customizing 기능 비교](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/concepts/compare-alternatives)
 
 ## Face 서비스
 - [Face 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-identity)
@@ -68,6 +74,8 @@
 -----
 # 고객 사례
 
+- [Microsoft 고객 사례 홈페이지](https://customers.microsoft.com/)
+
 | 국가  | 산업군 | 회사명              | Azure AI 서비스명  | 활용 사례 |
 | --- | --- | ---------------- | -------------- | ----- |
 | 스페인 | 통신  | Telefonica Group | Language 서비스   | [Customer Service용 챗봇 - 계정 관리, 데이터 사용량 확인, 청구서 확인, 등](https://customers.microsoft.com/en-us/story/1650642611593738736-telefonica-media-telco-cognitive-services-azure) |
@@ -78,8 +86,7 @@
 | 일본  | 교통 | Tokyo Metro          | Custom Vision  | [지하철 선로 이상 감지 솔루션](https://customers.microsoft.com/en-us/story/1584832935479879254-tokyo-metro-travel-transportation-azure-en-japan) |
 | 미국  | 운송 | Uber            | Face 서비스  | [공유 차량 기사 신원 확인](https://news.microsoft.com/transform/how-uber-is-using-driver-selfies-to-enhance-security-powered-by-microsoft-cognitive-services/) |
 | 한국  | 스포츠/미디어 | NC Dinos            | Language, Face, Video Indexer, Custom Vision  | [혁신적인 팬 서비스 환경 조성 및 Tech 기반 효율적인 광고주 유치 및 운영](https://customers.microsoft.com/en-us/story/1444906748733662480-nc-dinos-media-entertainment-azure-ko-korea) |
-
-
+| 캐나다  | 항공 | Air Canada            | Document Intelligence  | [백신 접종 문서 인식](https://customers.microsoft.com/en-us/story/1505667713938806113-air-canada-travel-transportation-azure-form-recognizer) |
 
 
 
