@@ -42,10 +42,28 @@
 - [Language Understanding 기능](https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/overview)
 - [Question Answering 기능](https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/overview)
 
+# 3일차
+
+## Computer Vision 서비스
+- [Computer Vision 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-image-analysis?tabs=4-0#analyze-image)
+- [Azure AI Vision 학습 경로](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/)
+
+## Custom Vision 서비스
+- [Custom Vision 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/overview)
+
+## Face 서비스
+- [Face 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-identity)
+
+## Document Intelligence 서비스
+- [Document Intelligence 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview)
+- [Document Intelligence 학습 경로](https://learn.microsoft.com/en-us/training/paths/extract-data-from-forms-document-intelligence/)
+
 -----
 # Studio 링크
 - [Language Studio](https://language.cognitive.azure.com/)
 - [Speech Studio](https://speech.microsoft.com/portal)
+- [Vision Studio](https://portal.vision.cognitive.azure.com/)
+- [Document Intelligence Studio](https://documentintelligence.ai.azure.com/)
 
 -----
 # 고객 사례
