@@ -86,7 +86,11 @@
 | 일본  | 교통 | Tokyo Metro          | Custom Vision  | [지하철 선로 이상 감지 솔루션](https://customers.microsoft.com/en-us/story/1584832935479879254-tokyo-metro-travel-transportation-azure-en-japan) |
 | 미국  | 운송 | Uber            | Face 서비스  | [공유 차량 기사 신원 확인](https://news.microsoft.com/transform/how-uber-is-using-driver-selfies-to-enhance-security-powered-by-microsoft-cognitive-services/) |
 | 한국  | 스포츠/미디어 | NC Dinos            | Language, Face, Video Indexer, Custom Vision  | [혁신적인 팬 서비스 환경 조성 및 Tech 기반 효율적인 광고주 유치 및 운영](https://customers.microsoft.com/en-us/story/1444906748733662480-nc-dinos-media-entertainment-azure-ko-korea) |
-| 캐나다  | 항공 | Air Canada            | Document Intelligence  | [백신 접종 문서 인식](https://customers.microsoft.com/en-us/story/1505667713938806113-air-canada-travel-transportation-azure-form-recognizer) |
-
-
-
+| 미국  | 유통 | CarMax            | Azure OpenAI  | [소비자 후기 요약](https://customers.microsoft.com/en-us/story/1501304071775762777-carmax-retailer-azure-openai-service) |
+| 미국  | 전문 서비스 | Typeface            | Azure OpenAI  | [브랜드 가이드라인에 따라 마케팅용 콘텐츠 생성](https://customers.microsoft.com/en-us/story/1637196302736110361-typeface-professional-services-azure-openai-service) |
+| 대만  | 교육 | 국립타이완사범대학         | Azure OpenAI  | [K-12 학생 대상 영어 튜터 챗](https://customers.microsoft.com/en-us/story/1637196302736110361-typeface-professional-services-azure-openai-service) |
+| 미국  | 통신 | AT&T         | Azure OpenAI  | [사내 레거시 코드 마이그레이션, 인사 관련 업무 자동화](https://customers.microsoft.com/en-us/story/1637511309136244127-att-telecommunications-azure-openai-service) |
+| 네덜란드 | 소비재 | HEINEKEN         | Azure OpenAI  | [사내 문서 검색용 챗봇](https://customers.microsoft.com/en-us/story/1685696409285197342-heineken-consumer-goods-azure-ai) |
+| 한국  | 교육 | 웅진씽크빅         | Azure OpenAI  | [웅진 북클럽 서비스의 도서 추천 및 스마트올 메타버스 서비스의 대화형 캐릭터에 접목](https://customers.microsoft.com/en-us/story/1671082509541993808-woongjin-thinkbig-primary-and-secondary-edu-azure-ko-korea) |
+| 한국  | 여러 산업군 | 국내 여러 회사         | Azure OpenAI  | [영상 19분 25초 쯤 기사를 통해 퍼블릭 하게 공개된 국내 사례 정리 테이블](https://youtu.be/mxlmuk7H1do?si=snuxZvMjDSUvSaxy&t=1165) |
+| 한국  | 여러 산업군 | 국내 스타트업 Azure OpenAI 활용 사례 공유    | Azure OpenAI  | [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) |
