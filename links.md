@@ -115,6 +115,7 @@
 -----
 # Microsoft 인증 시험 관련 문서
 
+- [AI-102 시험 등록/시험 준비용 콘텐츠/연습 문제](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-102/)
 - [시험 환경 샌드박스](https://aka.ms/ExamDemo)
 - [과목 별 시험 준비 영상](https://aka.ms/ExamReadinessZone)
 - [시험 과정 개요](https://learn.microsoft.com/en-us/credentials/certifications/certification-process-overview)
