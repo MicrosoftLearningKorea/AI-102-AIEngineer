@@ -112,3 +112,14 @@
 | 한국  | 여러 산업군 | 국내 여러 회사         | Azure OpenAI  | [영상 19분 25초 쯤 기사를 통해 퍼블릭 하게 공개된 국내 사례 정리 테이블](https://youtu.be/mxlmuk7H1do?si=snuxZvMjDSUvSaxy&t=1165) |
 | 한국  | 여러 산업군 | 국내 스타트업 Azure OpenAI 활용 사례 공유    | Azure OpenAI  | [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) |
 
+-----
+# Microsoft 인증 시험 관련 문서
+
+- [시험 환경 샌드박스](https://aka.ms/ExamDemo)
+- [과목 별 시험 준비 영상](https://aka.ms/ExamReadinessZone)
+- [시험 과정 개요](https://learn.microsoft.com/en-us/credentials/certifications/certification-process-overview)
+- [시험 소요 시간 및 질문 개수](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
+- [재응시 규정](https://learn.microsoft.com/en-us/credentials/support/retake-policy)
+- [인증 기간 만료 후 재발급 규정](https://learn.microsoft.com/en-us/credentials/certifications/renew-your-microsoft-certification-faq)
+
+
