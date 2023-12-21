@@ -66,7 +66,7 @@
 
 # 4일차
 
-## Azure AI Serach
+## Azure AI Search
 - [Azure AI Search 기술 문서](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
   - [Full-text search 진행 과정](https://learn.microsoft.com/en-us/azure/search/search-lucene-query-architecture)
   - [Vector search 진행 과정](https://learn.microsoft.com/en-us/azure/search/vector-search-overview)
