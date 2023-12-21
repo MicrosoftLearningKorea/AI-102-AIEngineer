@@ -84,6 +84,7 @@
 - [Speech Studio](https://speech.microsoft.com/portal)
 - [Vision Studio](https://portal.vision.cognitive.azure.com/)
 - [Document Intelligence Studio](https://documentintelligence.ai.azure.com/)
+- [Azure OpenAI Studio](https://oai.azure.com/)
 
 -----
 # 고객 사례
