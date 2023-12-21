@@ -64,6 +64,20 @@
 - [Document Intelligence 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview)
 - [Document Intelligence 학습 경로](https://learn.microsoft.com/en-us/training/paths/extract-data-from-forms-document-intelligence/)
 
+# 4일차
+
+## Azure AI Serach
+- [Azure AI Search 기술 문서](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
+  - [Full-text search 진행 과정](https://learn.microsoft.com/en-us/azure/search/search-lucene-query-architecture)
+  - [Vector search 진행 과정](https://learn.microsoft.com/en-us/azure/search/vector-search-overview)
+  
+- [Azure AI Serach 학습 경로](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/)
+
+## Azure OpenAI Service
+- [Azure OpenAI Service 기술 문서](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
+- [Azure OpenAI Service 학습 경로](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+- [Azure OpenAI 데이터 프라이버시](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
+
 -----
 # Studio 링크
 - [Language Studio](https://language.cognitive.azure.com/)
